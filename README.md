@@ -17,7 +17,7 @@
 
 ## Frameworks usados en este proyecto:
 
-- [Vite.js][https://vitejs.dev/]
+- [Vite.js](https://vitejs.dev/)
 
 ---
 
