@@ -19,6 +19,15 @@
 
 - [Vite.js](https://vitejs.dev/)
 
+## ¿Cómo ejecutarlo?
+
+Para ejecutarlo al clonarlo ejecutar en terminal:
+
+```sh
+npm i
+npm run dev
+```
+
 ---
 
 #### En inglés:
@@ -42,3 +51,12 @@
 ## Frameworks used in this project:
 
 - [Vite.js](https://vitejs.dev/)
+
+## How to Run It?
+
+To run it after cloning, execute in the terminal:
+
+```sh
+npm i
+npm run dev
+```
